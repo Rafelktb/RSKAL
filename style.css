@@ -1,0 +1,25 @@
+body{
+font-family: "Patua One", serif;
+font-size: 15px;
+text-transform: uppercase;
+  }
+  .container{
+    display: flex;
+   justify-content: space-around;
+    gap: 10px;
+    background-color:#ACE2E1;
+  }
+  .one{
+    float: left;
+  }
+  .two{
+    float: left;
+  }
+  .three{
+    float: left;
+  }
+  .four{
+    float: left;
+  }
+ 
+  
